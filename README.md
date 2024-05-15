@@ -46,8 +46,7 @@ This Product Management Application is built using React, Ant Design, and JavaSc
 ## Installation and Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AshajyothiReddy/Endimension-assignment.git
-   cd product-management
+   git clone https://github.com/anishreddy25/Endimension.git
 2. Install the dependencies:
     sh
     npm install
